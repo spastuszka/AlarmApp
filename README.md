@@ -1,4 +1,4 @@
-# Media Player - App Kotlin
+# AlarmApp - App Kotlin
 
 ## General info 
 
